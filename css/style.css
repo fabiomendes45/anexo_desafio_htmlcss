@@ -1,0 +1,25 @@
+/*iniciando o body*/
+body {
+	font-family:arial, sans-serif;
+	margin:0;
+	padding:0;
+
+}
+/*iniciando o header*/
+header {
+	background-color:#003366;
+	color:white;
+	padding:20px;
+	text-align: center;
+}
+/*iniciando o main*/
+main {
+	padding: 40px;
+	text-align: center;
+}
+/*iniciando o footer*/
+footer{
+	background-color: #1b357e;
+	text-align: center;
+	padding: 10px;
+}
